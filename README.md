@@ -1,3 +1,3 @@
 # WindowResizer
-这是一个用于调整窗口大小的软件，这对于那些无法调整大小的窗口尤其有用。<br>
-它还可以去除窗口的边框，并强制最大化，这非常适合那些无法全屏显示的程序，比如某些游戏。
+This is a software for resizing windows, which is especially useful for those windows that cannot be resized. <br>
+It also removes the border of the window and forces it to be maximized, which is perfect for programs that can't be displayed full screen, such as certain games.
