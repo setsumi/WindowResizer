@@ -9,7 +9,7 @@ https://github.com/setsumi/WindowResizer/releases
 
 ## Screenshot
 
-![image](https://github.com/setsumi/WindowResizer/assets/5970554/f98714c1-e86f-4479-a0a6-b7503d9fe73b)
+![image](https://github.com/setsumi/WindowResizer/assets/5970554/de5b3bf9-2995-4172-8b8b-5abebed996b8)
 
 ## Original project
 
